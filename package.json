@@ -1,6 +1,7 @@
 {
   "name": "@hexlet/code",
   "version": "1.0.0",
+  "type": "module",
   "description": "[![Actions Status](https://github.com/romanzhh/frontend-project-44/workflows/hexlet-check/badge.svg)](https://github.com/romanzhh/frontend-project-44/actions)",
   "main": "index.js",
   "bin": {
@@ -18,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/romanzhh/frontend-project-44/issues"
   },
-  "homepage": "https://github.com/romanzhh/frontend-project-44#readme"
+  "homepage": "https://github.com/romanzhh/frontend-project-44#readme",
+  "dependencies": {
+    "ci": "^2.2.0"
+  }
 }
