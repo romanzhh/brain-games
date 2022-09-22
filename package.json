@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/romanzhh/frontend-project-44#readme",
   "dependencies": {
-    "ci": "^2.2.0"
+    "ci": "^2.2.0",
+    "readline-sync": "^1.4.10"
   }
 }
