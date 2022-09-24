@@ -9,4 +9,4 @@
 
 
 Game: parity check
-[https://asciinema.org/a/AdkYQrIMj6mKduA4dfd4xqwBC](https://asciinema.org/a/ZsIx9vkeJr4obl3u69oxLG8J9)
+[![brain-even](https://asciinema.org/a/ZsIx9vkeJr4obl3u69oxLG8J9.svg)](https://asciinema.org/a/ZsIx9vkeJr4obl3u69oxLG8J9)
