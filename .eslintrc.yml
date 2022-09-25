@@ -9,6 +9,6 @@ parserOptions:
 rules:
   no-console: 0
   import/extensions:
-    - error
-    - ignorePackages
-    - js: always
+    - off
+  import/no-duplicates:
+    - off
