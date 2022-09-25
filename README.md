@@ -6,13 +6,28 @@
 
 
 
-<h1>Installing</h1>
+<h1>Установка</h1>
 
-<h3>Parity check</h3>
+```
+git clone git@github.com:romanzhh/frontend-project-44.git
+make install
+npm link
+```
 
-[![brain-even](https://asciinema.org/a/ZsIx9vkeJr4obl3u69oxLG8J9.svg)](https://asciinema.org/a/ZsIx9vkeJr4obl3u69oxLG8J9)
 
-<h3>Calculator</h3>
+<h3>Проверка на чётность</h3>
 
-[![brain-calc](https://asciinema.org/a/kUcUkRdCtzfFVIYvYXDXW1LeK.svg)](https://asciinema.org/a/kUcUkRdCtzfFVIYvYXDXW1LeK)
+```
+brain-even
+```
+
+[![brain-even](https://asciinema.org/a/cuhECRrNX0h8pLs3dTg1baA43.svg)](https://asciinema.org/a/cuhECRrNX0h8pLs3dTg1baA43)
+
+<h3>Калькулятор</h3>
+
+```
+brain-calc
+```
+
+[![brain-calc](https://asciinema.org/a/WbCnZUj79e4CoHqbPqIO8C2HW.svg)](https://asciinema.org/a/WbCnZUj79e4CoHqbPqIO8C2HW)
 
