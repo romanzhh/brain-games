@@ -6,8 +6,13 @@
 
 
 
+<h1>Installing</h1>
 
+<h3>Parity check</h3>
 
-<h1>Parity check</h1>
-(https://asciinema.org/a/ZsIx9vkeJr4obl3u69oxLG8J9.svg)](https://asciinema.org/a/ZsIx9vkeJr4obl3u69oxLG8J9)
+[![brain-even](https://asciinema.org/a/ZsIx9vkeJr4obl3u69oxLG8J9.svg)](https://asciinema.org/a/ZsIx9vkeJr4obl3u69oxLG8J9)
+
+<h3>Calculator</h3>
+
+[![brain-calc](https://asciinema.org/a/kUcUkRdCtzfFVIYvYXDXW1LeK.svg)](https://asciinema.org/a/kUcUkRdCtzfFVIYvYXDXW1LeK)
 
