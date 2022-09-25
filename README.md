@@ -9,5 +9,5 @@
 
 
 <h1>Parity check</h1>
-[![brain-even](https://asciinema.org/a/ZsIx9vkeJr4obl3u69oxLG8J9.svg)](https://asciinema.org/a/ZsIx9vkeJr4obl3u69oxLG8J9)
+(https://asciinema.org/a/ZsIx9vkeJr4obl3u69oxLG8J9.svg)](https://asciinema.org/a/ZsIx9vkeJr4obl3u69oxLG8J9)
 
