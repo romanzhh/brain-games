@@ -31,3 +31,11 @@ brain-calc
 
 [![brain-calc](https://asciinema.org/a/WbCnZUj79e4CoHqbPqIO8C2HW.svg)](https://asciinema.org/a/WbCnZUj79e4CoHqbPqIO8C2HW)
 
+<h3>НОД</h3>
+
+```
+brain-gcd
+```
+
+[![brain-gcd](https://asciinema.org/a/znvZKZfY3UzItcPQznrFGb2PP.svg)](https://asciinema.org/a/znvZKZfY3UzItcPQznrFGb2PP)
+
