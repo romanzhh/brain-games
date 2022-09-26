@@ -49,7 +49,7 @@ brain-progression
 
 [![brain-progression](https://asciinema.org/a/eQxyLElxtYeK6rnqw0SCdCsp3.svg)](https://asciinema.org/a/eQxyLElxtYeK6rnqw0SCdCsp3)
 
-<h3>Игра: "Простое ли число?"<
+<h3>Игра: "Простое ли число?"</h3>
 
 ```
 brain-prime
