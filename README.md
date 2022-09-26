@@ -15,7 +15,7 @@ npm link
 ```
 
 
-<h3>Проверка на чётность</h3>
+<h3>Игра: "Проверка на чётность"</h3>
 
 ```
 brain-even
@@ -23,7 +23,7 @@ brain-even
 
 [![brain-even](https://asciinema.org/a/cuhECRrNX0h8pLs3dTg1baA43.svg)](https://asciinema.org/a/cuhECRrNX0h8pLs3dTg1baA43)
 
-<h3>Калькулятор</h3>
+<h3>Игра: "Калькулятор"</h3>
 
 ```
 brain-calc
@@ -31,7 +31,7 @@ brain-calc
 
 [![brain-calc](https://asciinema.org/a/WbCnZUj79e4CoHqbPqIO8C2HW.svg)](https://asciinema.org/a/WbCnZUj79e4CoHqbPqIO8C2HW)
 
-<h3>НОД</h3>
+<h3>Игра: "НОД"</h3>
 
 
 
@@ -41,10 +41,17 @@ brain-gcd
 
 [![brain-gcd](https://asciinema.org/a/znvZKZfY3UzItcPQznrFGb2PP.svg)](https://asciinema.org/a/znvZKZfY3UzItcPQznrFGb2PP)
 
-<h3>Арифметическая прогрессия</h3>
+<h3>Игра: "Арифметическая прогрессия"</h3>
 
 ```
 brain-progression
 ```
 
 [![brain-progression](https://asciinema.org/a/eQxyLElxtYeK6rnqw0SCdCsp3.svg)](https://asciinema.org/a/eQxyLElxtYeK6rnqw0SCdCsp3)
+
+<h3>Игра: "Простое ли число?"<
+
+```
+brain-prime
+```
+[![brain-prime](https://asciinema.org/a/QSwDWsyq4rcX0DOuSc6JeqW2F.svg)](https://asciinema.org/a/QSwDWsyq4rcX0DOuSc6JeqW2F)
