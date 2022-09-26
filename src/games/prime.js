@@ -23,7 +23,7 @@ function prime() {
   console.log(`Hello, ${userName}!`);
   console.log('Answer "yes" if given number is prime. Otherwise answer "no".');
   for (let i = 0; i < 3; i += 1) {
-    const number = Math.round(Math.random() * 60);
+    const number = Math.round(Math.random() * 100);
     console.log(`Question: ${number}`);
     const answer = readlineSync.question('Your answer: ');
     if (answer === 'yes' && isPrime(number)) {
