@@ -33,9 +33,18 @@ brain-calc
 
 <h3>НОД</h3>
 
+
+
 ```
 brain-gcd
 ```
 
 [![brain-gcd](https://asciinema.org/a/znvZKZfY3UzItcPQznrFGb2PP.svg)](https://asciinema.org/a/znvZKZfY3UzItcPQznrFGb2PP)
 
+<h3>Арифметическая прогрессия</h3>
+
+```
+brain-progression
+```
+
+[![brain-progression](https://asciinema.org/a/eQxyLElxtYeK6rnqw0SCdCsp3.svg)](https://asciinema.org/a/eQxyLElxtYeK6rnqw0SCdCsp3)
