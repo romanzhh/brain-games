@@ -1,5 +1,6 @@
 [![Actions Status](https://github.com/romanzhh/frontend-project-44/workflows/hexlet-check/badge.svg)](https://github.com/romanzhh/frontend-project-44/actions)
 <a href="https://codeclimate.com/github/romanzhh/frontend-project-44/maintainability"><img src="https://api.codeclimate.com/v1/badges/a35ba51a7f2b74fbc436/maintainability" /></a>
+<a href="https://codeclimate.com/github/romanzhh/frontend-project-44/test_coverage"><img src="https://api.codeclimate.com/v1/badges/a35ba51a7f2b74fbc436/test_coverage" /></a>
 
 
 <h1><em>Описание</em></h1>
